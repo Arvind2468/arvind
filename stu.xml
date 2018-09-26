@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ab.css" ?>
+
+<students>
+	<student>
+		<usn>USN:4vv15cs001</usn>
+		<name>NAME:abc</name>
+		<email>abhick@gmail.com</email>
+		<college>vvce </college>
+		<branch>cse</branch>
+	</student>
+
+	<student>
+		<usn>USN:4vv15cs200</usn>
+		<name>NAME:abc</name>
+		<email>EMAIL:abc@gmail.com</email>
+		<college>CLLEGE:vvce </college>
+		<branch>BRANCH:cse</branch>
+	</student>
+
+
+
+	<student>
+		<usn>USN:4vv15cs300</usn>
+		<name>NAME:abc</name>
+		<email>EMAIL:bb@gmail.com</email>
+		<college>COLLEGE:vvce </college>
+		<branch>BRANCH:cse</branch>
+	</student>
+</students>
